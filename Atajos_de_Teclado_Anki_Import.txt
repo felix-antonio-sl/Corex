@@ -1,0 +1,29 @@
+#separator:tab
+#html:true
+#notetype column:1
+Basic	Guardar	⌘S
+Basic	Sincronizar	.
+Basic	Iniciar/Pausar Enfoque	⌘⇧P
+Basic	Abrir Menú de Comandos	⌘K
+Basic	Atajos	?
+Basic	Añadir tarea	Tab+N
+Basic	Añadir tarea debajo	Return
+Basic	Añadir subtarea	⇧+Return
+Basic	Establecer fecha de vencimiento para la tarea	\*
+Basic	Establecer prioridad para la tarea	!
+Basic	Establecer etiqueta para la tarea	#
+Basic	Añadir/mover tarea a cierta lista	~ / ^
+Basic	Asignar tarea a cierto miembro	@
+Basic	Completar tareas	Tab+M
+Basic	Eliminar tareas	⌘Del
+Basic	Establecer fecha	Tab+D
+Basic	Borrar hora	Tab+0
+Basic	Establecer hoy	Tab+1
+Basic	Establecer mañana	Tab+2
+Basic	Establecer próxima semana	Tab+3
+Basic	Establecer prioridad	^+0/1/2/3
+Basic	Ir a Búsqueda	/
+Basic	Ir a Calendario	^⌘C
+Basic	Ir a Todo	⌥⌘A
+Basic	Ir a Hoy	⌥⌘T
+Basic	Ir a Bandeja de Entrada	^⌥1
